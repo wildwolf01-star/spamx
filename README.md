@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Spamx-green.svg"></a>
-<a href="https://bit.ly/3jPqXEB"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://bit.ly/3jPqXEB"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3jPqXEB"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
@@ -26,6 +26,9 @@
 
 SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous messages to your target without showing your real number and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
+<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
+</p>
+
 ## AVAILABLE ON :
 
 * Termux
@@ -43,6 +46,7 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 * [+] Updated maintainence !
 * [+] Working api's !
 * [+] Easy for Beginners !
+* [+] Anonymous Whatsapp !
 
 ## INSTALLATION [Termux] :
 
@@ -52,12 +56,12 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/noob-hackers/spamx`
+* `git clone https://github.com/noob-hackers/spamx`
 * `cd $HOME`
 * `ls`
 * `cd spamx`
 * `ls`
-* `bash setup.sh`
+* `bash setup`
 * `bash spamx.sh`
 ```
 [+]--Now make sue that you internet connection is on and now usae the tool.
@@ -65,7 +69,7 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 
 ## USAGE OPTIONS [Termux] :
 
-__UDATE SOON (NOT NECSESSARY)__ :
+__UPDATE SOON (NOT NECSESSARY)__ :
 - ........
 
 ## SCREEN SHOTS [Termux]
@@ -90,6 +94,7 @@ __UDATE SOON (NOT NECSESSARY)__ :
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
+[![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
